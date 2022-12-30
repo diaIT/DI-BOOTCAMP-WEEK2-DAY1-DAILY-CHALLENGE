@@ -14,7 +14,11 @@ console.log(fruits);
 
 
 //*------------------------------Exercice 2-----------------------------------------------------------------*//
- 
+ /*****************************************************
+Correcteur: Yannick GOUGUIA
+Revoir cet exercice, mauvaise reponse, revoir le cours comment acceder a un element du tableau
+*****************************************************/
+
 const moreFruits = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
 console.log(["oranges"])
 
