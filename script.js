@@ -14,8 +14,10 @@ console.log(fruits);
 
 
 //*------------------------------Exercice 2-----------------------------------------------------------------*//
- 
+//Access and then console.log “Oranges”.
+
 const moreFruits = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
-console.log(["oranges"])
+console.log(moreFruits[1][1][0])
+
 
 
